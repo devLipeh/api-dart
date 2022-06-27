@@ -1,5 +1,5 @@
-import 'package:api_rest/api_rest.dart' as api_rest;
+//import 'package:api_rest/server.dart' as api_rest;
 
 void main(List<String> arguments) {
-  print('Hello world: ${api_rest.calculate()}!');
+  //print('Hello world: ${api_rest.calculate()}!');
 }
